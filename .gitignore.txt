@@ -1,0 +1,7 @@
+# Ignore SolidWorks temporary owner / lock files
+~$*
+
+# Ignore auto-save and backup files
+*.swb
+*.err
+*.sldedr
