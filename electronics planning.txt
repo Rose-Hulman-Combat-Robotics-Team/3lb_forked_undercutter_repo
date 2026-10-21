@@ -1,0 +1,4 @@
+Battery: 4S 850mah
+Weapon Motor: Repeat 2812 Belt Drive motor
+Weapon ESC: whatever
+Drive Motor: Repeat Pro 2006
