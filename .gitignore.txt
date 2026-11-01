@@ -1,5 +1,4 @@
-# Ignore SolidWorks temporary owner / lock files
-~$*
+
 
 # Ignore auto-save and backup files
 *.swb
@@ -7,3 +6,24 @@
 *.sldedr
 
 # bdsaa
+
+# gitignore file for a SolidWorks project
+
+# SolidWorks temporary files
+~$*.sldprt
+~$*.sldasm
+~$*.slddrw
+~$*.sld
+
+# For systems with case-sensitive (SolidWorks uses both)
+~$*.SLDPRT
+~$*.SLDASM
+~$*.SLDDRW
+~$*.SLD
+
+# SolidWorks backups and auto-recovery
+*.bak
+*.swbak
+
+# Cache of simulation results
+/simulation_results/
